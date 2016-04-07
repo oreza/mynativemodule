@@ -1,2 +1,3 @@
 # mynativemodule
-Template for cMake file for native Python modules on Mac
+A simple cMake template to create native Python modules on Mac on CLion
+
